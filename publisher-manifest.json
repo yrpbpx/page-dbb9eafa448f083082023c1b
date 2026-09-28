@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "827aaac396992b420fb74a79",
+  "owner": "yrpbpx",
+  "repo": "page-dbb9eafa448f083082023c1b",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dbb9eafa448f083082023c1b",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "729d15d2ee9a874dd3a83ba024698e84d6a1f8c7568725c9a7418b17e55732e1",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒机场为您提供优质VPN加速服务，支持客户端下载，帮助您畅享流畅的网络体验。",
+          "AI_DESCRIPTION": "魔戒机场为您提供优质VPN加速服务，支持客户端下载，帮助您畅享流畅的网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n<style>\nbody {\n  font-family: Arial, Helvetica, sans-serif;\n  line-height: 1.6;\n  margin: 0;\n  padding: 0;\n  background: #f8f4f0;\n  color: #333;\n}\nheader {\n  background: #fff;\n  padding: 1rem 5%;\n  box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n}\nnav ul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  display: flex;\n  justify-content: center;\n  gap: 2rem;\n}\nnav a {\n  color: #ff6b6b;\n  text-decoration: none;\n  font-weight: bold;\n}\nnav a:hover {\n  text-decoration: underline;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 2rem 5%;\n}\nh1 {\n  color: #ff6b6b;\n  font-size: 3rem;\n  text-align: center;\n  margin-bottom: 2rem;\n}\nsection {\n  margin-bottom: 4rem;\n}\nh2 {\n  color: #ff6b6b;\n  font-size: 1.8rem;\n  margin-bottom: 1rem;\n}\n.staggered {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 2rem;\n}\n.staggered > div {\n  flex: 1;\n  min-width: 300px;\n}\nul, ol {\n  padding-left: 1.5rem;\n}\nli {\n  margin-bottom: 0.8rem;\n}\ndetails {\n  margin-bottom: 1rem;\n  border: 1px solid #ddd;\n  border-radius: 8px;\n  padding: 1rem;\n}\nsummary {\n  font-weight: bold;\n  cursor: pointer;\n  color: #ff6b6b;\n}\n#plans .plan-card {\n  border: 1px solid #ff6b6b;\n  border-radius: 8px;\n  padding: 1.5rem;\n  margin-bottom: 1rem;\n}\n#plans .plan-card.featured {\n  border-color: #ff6b6b;\n  background: #fff0f0;\n}\n@media (max-width: 768px) {\n  .staggered > div {\n    flex: 100%;\n  }\n  nav ul {\n    flex-direction: column;\n    gap: 1rem;\n  }\n}\n</style>\n\n\n<header>\n<nav>\n<ul>\n<li><a href=\"#intro\">品牌简介</a></li>\n<li><a href=\"#scenarios\">使用场景</a></li>\n<li><a href=\"#howto\">操作说明</a></li>\n<li><a href=\"#plans\">套餐选择</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n</nav>\n</header>\n<main>\n<h1>魔戒</h1>\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>魔戒致力于提供稳定可靠的VPN加速服务，让您的网络体验更加自由和安全。</p>\n</section>\n<section id=\"scenarios\" class=\"staggered\">\n<h2>使用场景</h2>\n<div>\n<p>魔戒适用于各种网络需求，包括全球访问、隐私保护和流媒体解锁。</p>\n</div>\n</section>\n<section id=\"howto\" class=\"staggered\">\n<h2>操作说明</h2>\n<div>\n<ol>\n<li>访问官网选择适合您的套餐</li>\n<li>下载对应平台的客户端</li>\n<li>安装客户端并登录账号</li>\n<li>选择节点连接网络</li>\n</ol>\n</div>\n</section>\n<section id=\"plans\">\n<h2>选择您的套餐</h2>\n<div class=\"staggered\">\n{{PLANS_HTML}}\n</div>\n</section>\n<section id=\"clients\">\n<h2>客户端选择</h2>\n{{CLIENTS_HTML}}\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>如何选择合适的套餐？</summary>\n<p>根据您的设备数量和使用需求选择基础版、旗舰版或团队版。</p>\n</details>\n<details>\n<summary>魔戒VPN支持哪些功能？</summary>\n<p>支持流量加速、流媒体解锁以及多设备在线。</p>\n</details>\n<details>\n<summary>如何获取帮助？</summary>\n<p>提供工单支持以解决使用中的问题。</p>\n</details>\n<details>\n<summary>旗舰版有哪些优势？</summary>\n<p>旗舰版提供全节点原生流媒体解锁、IPLC专线游戏加速优化以及优先工单支持。</p>\n</details>\n<details>\n<summary>团队版适合哪些用户？</summary>\n<p>团队版支持VIP专属高带宽节点、企业定制路由以及专属客户经理服务。</p>\n</details>\n</section>\n</main>\n\n",
+          "hash": "d33b67627cf2d961384221576ac97162251a84e58755c399a8090aae50b8f2ae",
+          "seo": {
+            "title": "魔戒机场 客户端下载 - 高速VPN加速器",
+            "keywords": "魔戒机场,魔戒VPN,机场加速器,客户端下载,VPN加速",
+            "description": "魔戒机场为您提供优质VPN加速服务，支持客户端下载，帮助您畅享流畅的网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hpzz0.cn",
+    "host": "web.hpzz0.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "hpzz0.cn",
+      "url": "https://hpzz0.cn/",
+      "label": "MIMEMI",
+      "apex": "hpzz0.cn",
+      "kind": null,
+      "identity": "jichangdaquan999/page-48a2276212ce136f0baa5c2c"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c8208a9323daf02c50b45a072406632e97f7d3ac5f9c9b8417a1912febb212f4",
+    "sitemap.xml": "f3b6f421920804b8bbb43fa8297356405c6d5959b5234469b0e941bca6ef4ed2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "029863d9fc2be19165ba7bcc6c6fa0eda2f7616d2f3e247f2f7ca7092e0e5de3",
+    "robots.txt": "875d26bdcd9ac8653976f1e57202a469e6e03a0afbb213c8adb05520e7cc89c8",
+    "81503b746db18f84e6d56fa7ee7ad394.txt": "ded87aa0b1b7c656eafc802322e609f23524e5ec923d5745140240008341a8ba"
+  },
+  "revision": "3547a980c385a94a74916d486a0ff2ac68ae1b7a24b9947edc2765fa97563874"
+}
